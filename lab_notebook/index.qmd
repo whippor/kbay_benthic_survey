@@ -1,0 +1,10 @@
+---
+title: "kbay_benthic_survey Lab Notebook"
+format: html
+---
+
+# 📘 kbay_benthic_survey
+
+This is the lab notebook for **kbay_benthic_survey**.
+
+- [Return to Central Lab Hub](../../lab_notebook_hub/index.qmd)
